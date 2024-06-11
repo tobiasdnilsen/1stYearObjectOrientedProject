@@ -1,0 +1,6 @@
+Shrek;Family;120;110;3
+Die Hard;Action;75;120;15
+Intersterllar;Sci-Fi;169;120;12
+The Godfather;Drama;120;175;18
+The Lord of the Rings: The Fellowship of the Ring;Fantasy;100;178;15
+The Matrix;Action;80;136;15

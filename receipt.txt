@@ -1,0 +1,32 @@
+Movie title: Shrek
+Rated age: 3
+Movie genre: Family
+Movie length: 110
+Movie title: The Lord of the Rings: The Fellowship of the Ring
+Rated age: 15
+Movie genre: Fantasy
+Movie length: 178
+Movie title: Die Hard
+Rated age: 15
+Movie genre: Action
+Movie length: 120
+Movie title: Intersterllar
+Rated age: 12
+Movie genre: Sci-Fi
+Movie length: 120
+Movie title: The Godfather
+Rated age: 18
+Movie genre: Drama
+Movie length: 175
+Movie title: The Matrix
+Rated age: 15
+Movie genre: Action
+Movie length: 136
+Movie title: noel
+Rated age: 19
+Movie genre: horror
+Movie length: 200
+Movie title: noel
+Rated age: 18
+Movie genre: horror
+Movie length: 200
